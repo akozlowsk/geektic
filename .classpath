@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container" exported="true"/>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1/source/b2d1e06100e8ac3324239a242ead5557d7b65390/javax.servlet.jsp.jstl-1.2.1-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.glassfish.web/javax.servlet.jsp.jstl/1.2.1/jar/7f687140e9d264ee00eaa924714adf9a82cc18dc/javax.servlet.jsp.jstl-1.2.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1/source/f3259305572297af85c02de2c0d39002bead2874/javax.servlet.jsp.jstl-api-1.2.1-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/javax.servlet.jsp.jstl/javax.servlet.jsp.jstl-api/1.2.1/jar/f072f63ab1689e885ac40c221df3e6bb3e64a84a/javax.servlet.jsp.jstl-api-1.2.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/javax.servlet/javax.servlet-api/3.0.1/source/1952f91d84016a39e31346c9d18bd8c9c4a128a/javax.servlet-api-3.0.1-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/javax.servlet/javax.servlet-api/3.0.1/jar/6bf0ebb7efd993e222fc1112377b5e92a13b38dd/javax.servlet-api-3.0.1.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/junit/junit/4.11/source/28e0ad201304e4a4abf999ca0570b7cffc352c3c/junit-4.11-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/junit/junit/4.11/jar/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.mockito/mockito-all/1.9.0/source/3cdbb5d11e1cf6c98b4d3697d9eeaa71ad59ef47/mockito-all-1.9.0-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.mockito/mockito-all/1.9.0/jar/d13863fbd7c0bc32845c9d8a261d03b61bf28194/mockito-all-1.9.0.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.hamcrest/hamcrest-core/1.3/source/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="F:/cours/test_et_int/geektic/caches/artifacts-23/filestore/org.hamcrest/hamcrest-core/1.3/jar/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" exported="true">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
