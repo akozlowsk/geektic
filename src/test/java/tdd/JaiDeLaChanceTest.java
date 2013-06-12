@@ -12,6 +12,4 @@ public class JaiDeLaChanceTest {
 		assertEquals(1,1);
 	}
 	
-	
-	
 }
