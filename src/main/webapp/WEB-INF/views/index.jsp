@@ -26,16 +26,18 @@
 
 </div>
 <div id="bloc_gauche">
-<img src="<c:url value='images/hgeek.jpg'></c:url>" height="350" width="260" alt="coté homme" title="cote_homme">
+
+<a href="recherche_mec"><img src="<c:url value='images/hgeek.jpg'></c:url>" height="350" width="260" alt="coté homme" title="cote_homme"></a>
 </div>
 
 <div id="bloc_droite">
-<img src="<c:url value='images/fgeek.jpg'></c:url>" height="350" width="260" alt="coté femme" title="cote_femme">
+<a href="recherche_femme"><img src="<c:url value='images/fgeek.jpg'></c:url>" height="350" width="260" alt="coté femme" title="cote_femme"></a>
 </div>
+
 
 <div id="bloc_centre">
 
-Choisissez votre camp !
+Choisissez votre préférence !
 <img src="<c:url value='images/fleche_gauche.png'></c:url>" height="350" width="260" alt="fleche de gauche" title="fleche_gauche">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="<c:url value='images/fleche_droite.png'></c:url>" height="350" width="260" alt="fleche de droite" title="fleche_droite">
 <!--  <fieldset>
